@@ -1,1 +1,1 @@
-# -BB_Yapay_Zeka_Kamp-
+# IBB_Yapay_Zeka_Kampi
